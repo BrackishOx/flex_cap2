@@ -1,3 +1,0 @@
-#include "otro.txt"
-hola mundo
-segunda linea
