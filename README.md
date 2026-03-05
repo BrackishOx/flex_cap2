@@ -1,8 +1,5 @@
-Capítulo 2 – Ejercicios Flex
-
-Autor: Santiago Céspedes
-Curso: Compiladores / Análisis Léxico
-Herramientas: Flex + GCC
+##Capítulo 2 – Ejercicios Flex
+ Flex + GCC
 
 ## Ejercicio 1
 Enunciado
