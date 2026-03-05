@@ -1,4 +1,4 @@
-##Capítulo 2 – Ejercicios Flex
+## Capitulo 2 Ejercicio Flex
  Flex + GCC
 
 ## Ejercicio 1
