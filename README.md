@@ -138,14 +138,13 @@ Se reinsertan todos los símbolos existentes.
 
 Se libera la tabla anterior.
 
-Compilación
+## Compilacion
 
 Para cualquier ejercicio:
 
 flex archivo.l
 gcc lex.yy.c -o programa -lfl
 
-Ejemplo:
-
+## Ejemplo
 flex flex_cap2_ej3.l
 gcc lex.yy.c -o ej3 -lfl
